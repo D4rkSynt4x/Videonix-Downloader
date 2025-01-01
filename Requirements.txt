@@ -1,0 +1,6 @@
+yt-dlp>=2024.01.01
+tkintertable>=1.3.3
+certifi>=2023.7.22
+brotli>=1.0.9
+
+
