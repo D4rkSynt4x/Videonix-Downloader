@@ -2,9 +2,6 @@
   videonix
 Videonix is a powerful and user-friendly video downloader tool designed to simplify the process of downloading and processing videos from various online platforms. Built with Python and integrated with yt_dlp and FFmpeg, Videonix delivers high-quality video and audio downloads in a standalone executable, eliminating the need for complicated setups.
 
-    Videonix
-Videonix is a standalone video downloader tool built with Python, yt_dlp, and FFmpeg. This tool provides an easy-to-use GUI for downloading high-quality videos and audio from various platforms.
-
 🚀 Features
 Simple GUI built with Tkinter.
 Download videos and audio in the best available quality.
@@ -91,3 +88,7 @@ Open a pull request with a description of your changes.
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it with proper attribution.
 
 >>>>>>> 8978a26 (Initial commit: Add Videonix project files)
+=======
+# Videonix-Downloader
+Videonix is a powerful and user-friendly video downloader tool designed to simplify the process of downloading and processing videos from various online platforms. Built with Python and integrated with yt_dlp and FFmpeg, Videonix delivers high-quality video and audio downloads in a standalone executable, eliminating the need for complicated setups.
+>>>>>>> 55b614488031609f149b12522a4defc3348f8609
